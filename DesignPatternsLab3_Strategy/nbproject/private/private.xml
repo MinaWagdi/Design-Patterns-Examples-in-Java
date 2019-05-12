@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/Duck.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/WoodDuck.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/FlyWithWings.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/NoFly.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/Quack.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/WildDuck.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/Mute.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/QuackingBehavior.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/RedDuck.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/RubberDuck.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/DesignPatternsLab3_Strategy.java</file>
+            <file>file:/Users/minarafla/Documents/ASU/Senior%202%20Semester%202/DesignPatternsLab3_Strategy/src/designpatternslab3_strategy/FlyingBehavior.java</file>
+        </group>
+    </open-files>
+</project-private>
